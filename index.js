@@ -1,5 +1,5 @@
 function destructivelyAppendKitten(name)
 {
-  return
+  console.log
   kittens.push['Ralph']
 }
