@@ -1,5 +1,5 @@
 function destructivelyAppendKitten(name)
 {
   return
-  push( "Ralph")
+  push( 'Ralph')
 }
